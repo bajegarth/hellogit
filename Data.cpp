@@ -1,5 +1,8 @@
 //class implementation
 #include "Data.h"
+#include <iostream>
+
+using namespace std;
 
 Data::Data ()
 	{
@@ -32,8 +35,8 @@ float Data::getY ()
 	{
 		return y;
 	}
-	
 
 	
+
 
 			

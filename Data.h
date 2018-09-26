@@ -1,4 +1,5 @@
 //class definition
+
 #ifndef DATA_H
 #define DATA_H
 
@@ -20,6 +21,7 @@ class Data
 		int getX ();
 		void setY (float b);
 		float getY ();
+		
 		
 	};
 		
